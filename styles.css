@@ -1,0 +1,20 @@
+html{
+	background-image: url("http://img00.deviantart.net/a7ce/i/2012/198/b/8/the_legend_of_zelda___wallpaper_by_nrgraphics-d57mc2i.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+button{
+	height:200px;
+	width:300px;
+	border-radius: 10px;
+	color:blue;
+	font-size: 20px;
+	margin-left: 460px;
+	background-color: black;
+	border:1px solid white;
+	background-image: url("http://67.media.tumblr.com/0ac3357a18b945ca9f9a381dbe66ad24/tumblr_inline_nlu8gwwr911r6fs6p_400.png");
+	background-position-x: 15px;
+	background-position-y: -20px; 
+	background-size: cover;
+}
